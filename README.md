@@ -1,5 +1,5 @@
 <a href="###">
-  <img alt="qawin frontpage" src="readme.png">
+  <img alt="qawin frontpage" src="https://raw.githubusercontent.com/jkalbasri/backend--qawin-ai-image-v2/refs/heads/main/readme.PNG">
   <h1 align="center">QAWIN</h1>
 </a>
 
