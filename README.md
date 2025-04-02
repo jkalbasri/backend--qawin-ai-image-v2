@@ -17,7 +17,7 @@
 
 ## Cloning & running
 
-1. Clone the repo: `git clone https://github.com/jkalbasri/qawin-ai-image-v2`
+1. Clone the repo: `git clone https://github.com/jkalbasri/backend--qawin-ai-image-v2`
 2. Create a `.env` file and add your [Together AI API key] (https://togetherai.link): `TOGETHER_API_KEY=`
 3. Run `npm install` and `npm run dev` to install dependencies and run locally
 
